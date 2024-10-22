@@ -1,0 +1,14 @@
+﻿<Window x:Class="Chapter09.ShowImage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Chapter09"
+        mc:Ignorable="d"
+        Title="ShowImage" Height="450" Width="800">
+    <StackPanel>
+        <Image Name="ImageShow" Height="250" Width="200" Margin="0,25,0,0" Source="{Binding Image}"/>
+        <TextBlock Name ="textDisplay" Height="100" TextAlignment="Center"/>
+        <Button Name ="changeButton" Content="CHANGE" Width="150" Click="changeButton_Click"/>
+    </StackPanel>
+</Window>

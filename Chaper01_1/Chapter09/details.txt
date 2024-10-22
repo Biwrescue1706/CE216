@@ -1,0 +1,3 @@
+Edogawa Conan,0888888888,4/May/2012,conan
+Kudo Shinichi,0899999999,4/May/2001,shinichi
+Mouri Ran,0811111111,1/October/2001,ran
