@@ -32,7 +32,7 @@
                                         </Grid.ColumnDefinitions>
                                         <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\coke180ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\coke180ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="โค๊ก 180 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                 <TextBlock Text="ราคา 12 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                 <Button x:Name="Oder00"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder00_Click" />
@@ -40,7 +40,7 @@
                                         </Border>
                                         <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Grid.Column="1" Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\coke300ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Grid.Column="1" Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\coke300ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Grid.Column="1" Text="โค๊ก 300 มล." Margin="80,10,0,0" HorizontalAlignment="Center"/>
                                                 <TextBlock Grid.Column="1" Text="ราคา 14 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                 <Button x:Name="Oder01"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder01_Click" />
@@ -48,7 +48,7 @@
                                         </Border>
                                         <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Grid.Column="2" Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\coke325ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Grid.Column="2" Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\coke325ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Grid.Column="2" Text="โค๊ก 325 มล." Margin="80,10,0,0" HorizontalAlignment="Center"/>
                                                 <TextBlock Grid.Column="2" Text="ราคา 16 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                 <Button x:Name="Oder02"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder02_Click"/>
@@ -56,7 +56,7 @@
                                         </Border>
                                         <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Grid.Column="3" Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\coke510ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Grid.Column="3" Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\coke510ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Grid.Column="3" Text="โค๊ก 510 มล." Margin="80,10,0,0" HorizontalAlignment="Center"/>
                                                 <TextBlock Grid.Column="3" Text="ราคา 19 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                 <Button x:Name="Oder03"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder03_Click"/>
@@ -74,7 +74,7 @@
                                             </Grid.ColumnDefinitions>
                                             <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\coke1L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\coke1L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊ก 1 ลิตร" Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                     <TextBlock Text="ราคา 27 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder001"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder001_Click" />
@@ -82,7 +82,7 @@
                                             </Border>
                                             <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\coke1.25L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\coke1.25L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊ก 1.25 ลิตร" Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                     <TextBlock Text="ราคา 31 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder011"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder011_Click" />
@@ -90,7 +90,7 @@
                                             </Border>
                                             <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\coke1.6L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\coke1.6L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊ก 1.6 ลิตร" Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                     <TextBlock Text="ราคา 36 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder021"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder021_Click" />
@@ -98,7 +98,7 @@
                                             </Border>
                                             <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\coke2L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\coke2L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊ก 2 ลิตร" Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                     <TextBlock Text="ราคา 42 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder031"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder031_Click" />
@@ -117,7 +117,7 @@
                                             </Grid.ColumnDefinitions>
                                             <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\cokezero180ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\cokezero180ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊กไม่มีน้ำตาล 180 มล." Margin="110,10,0,0" HorizontalAlignment="Center" Width="178"/>
                                                     <TextBlock Text="ราคา 12 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder002"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder002_Click" />
@@ -125,7 +125,7 @@
                                             </Border>
                                             <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\cokezero330ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\cokezero330ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊กไม่มีน้ำตาล 330 มล." Margin="110,10,0,0" HorizontalAlignment="Center" Width="174"/>
                                                     <TextBlock Text="ราคา 14 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder012"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder012_Click" />
@@ -133,7 +133,7 @@
                                             </Border>
                                             <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\cokezero325ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\cokezero325ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊กไม่มีน้ำตาล 325 มล." Margin="110,10,0,0" HorizontalAlignment="Center" Width="174"/>
                                                     <TextBlock Text="ราคา 16 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder022"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder022_Click" />
@@ -141,7 +141,7 @@
                                             </Border>
                                             <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\cokezero510ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\cokezero510ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊กไม่มีน้ำตาล 510 มล." Margin="110,10,0,0" HorizontalAlignment="Center" Width="174"/>
                                                     <TextBlock Text="ราคา 19 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder032"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder032_Click" />
@@ -160,7 +160,7 @@
                                             </Grid.ColumnDefinitions>
                                             <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\cokezero1L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\cokezero1L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊กไม่มีน้ำตาล 1 ลิตร" Margin="110,10,0,0" HorizontalAlignment="Center" Width="178"/>
                                                     <TextBlock Text="ราคา 27 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder003"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder003_Click" />
@@ -168,7 +168,7 @@
                                             </Border>
                                             <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\cokezero1.25L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\cokezero1.25L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊กไม่มีน้ำตาล 1.25 ลิตร" Margin="110,10,0,0" HorizontalAlignment="Center" Width="174"/>
                                                     <TextBlock Text="ราคา 31 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder013"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder013_Click" />
@@ -176,7 +176,7 @@
                                             </Border>
                                             <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\cokezero1.6L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\cokezero1.6L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊กไม่มีน้ำตาล 1.6 ลิตร" Margin="110,10,0,0" HorizontalAlignment="Center" Width="174"/>
                                                     <TextBlock Text="ราคา 36 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder023"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder023_Click" />
@@ -184,7 +184,7 @@
                                             </Border>
                                             <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\cokezero2L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\cokezero2L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊กไม่มีน้ำตาล 2 ลิตร" Margin="110,10,0,0" HorizontalAlignment="Center" Width="174"/>
                                                     <TextBlock Text="ราคา 42 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder033"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder033_Click" />
@@ -204,14 +204,14 @@
                                             <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
                                                     <TextBlock Text="โค๊กไม่มีน้ำตาลไลม์  325 มล." Width="202" Margin="80,30,0,0" />
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\cokelime325ml.jpg" Width="75" Height="75" Margin="-200,-30,0,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\cokelime325ml.jpg" Width="75" Height="75" Margin="-200,-30,0,-80" />
                                                     <TextBlock Text="ราคา 16 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder004"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder004_Click" />
                                                 </StackPanel>
                                             </Border>
                                             <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\cokelight325ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\cokelight325ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="โค๊กไม่มีน้ำตาลไลท์ 325 มล." Margin="80,10,0,0" HorizontalAlignment="Center" Width="199"/>
                                                     <TextBlock Text="ราคา 16 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder014"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder014_Click" />
@@ -233,7 +233,7 @@
                                         </Grid.ColumnDefinitions>
                                         <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi245ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi245ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="เป๊ปซี่ 245 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="132"/>
                                                 <TextBlock Text="ราคา 13 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                 <Button x:Name="Oder10"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder10_Click" />
@@ -241,7 +241,7 @@
                                         </Border>
                                         <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi330ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi330ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="เป๊ปซี่ 330 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                 <TextBlock Text="ราคา 14 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                 <Button x:Name="Oder11"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder11_Click" />
@@ -249,7 +249,7 @@
                                         </Border>
                                         <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi325ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi325ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="เป๊ปซี่ 325 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                 <TextBlock Text="ราคา 16 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                 <Button x:Name="Oder12"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder12_Click" />
@@ -257,7 +257,7 @@
                                         </Border>
                                         <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi410ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi410ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="เป๊ปซี่ 410 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                 <TextBlock Text="ราคา 17 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                 <Button x:Name="Oder13"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder13_Click" />
@@ -275,7 +275,7 @@
                                             </Grid.ColumnDefinitions>
                                             <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ 550 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="132"/>
                                                     <TextBlock Text="ราคา 20 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder101"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder101_Click" />
@@ -283,7 +283,7 @@
                                             </Border>
                                             <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi1L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi1L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ 1 ลิตร" Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                     <TextBlock Text="ราคา 27 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder111"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder111_Click" />
@@ -291,7 +291,7 @@
                                             </Border>
                                             <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi1.45L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi1.45L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ 1.45 ลิตร" Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                     <TextBlock Text="ราคา 34 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder121"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder121_Click" />
@@ -299,7 +299,7 @@
                                             </Border>
                                             <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi1.95L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsi1.95L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ 1.95 ลิตร" Margin="125,10,0,0" HorizontalAlignment="Center" Width="144"/>
                                                     <TextBlock Text="ราคา 42 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder131"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder131_Click" />
@@ -318,7 +318,7 @@
                                             </Grid.ColumnDefinitions>
                                             <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero245ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero245ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ไม่มีน้ำตาล 245 มล." Margin="90,10,0,0" HorizontalAlignment="Center" Width="184"/>
                                                     <TextBlock Text="ราคา 13 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder102"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder102_Click" />
@@ -326,7 +326,7 @@
                                             </Border>
                                             <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero330ml.jpg" Width="75" Height="75" Margin="-200,50,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero330ml.jpg" Width="75" Height="75" Margin="-200,50,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ไม่มีน้ำตาล 330 มล." Margin="100,-2,0,0" HorizontalAlignment="Center" Width="195"/>
                                                     <TextBlock Text="ราคา 14 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder112"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder112_Click" />
@@ -334,7 +334,7 @@
                                             </Border>
                                             <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero325ml.jpg" Width="75" Height="75" Margin="-200,50,0,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero325ml.jpg" Width="75" Height="75" Margin="-200,50,0,-80" />
                                                     <TextBlock Text="เป๊ปซี่ไม่มีน้ำตาล 325 มล." Margin="100,0,0,0" Width="207" TextAlignment="Center"/>
                                                     <TextBlock Text="ราคา 16 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder122"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder122_Click" />
@@ -342,7 +342,7 @@
                                             </Border>
                                             <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ไม่มีน้ำตาล 550 มล." Margin="100,10,0,0" TextAlignment="Center" Width="183"/>
                                                     <TextBlock Text="ราคา 20 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder132"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder132_Click" />
@@ -361,7 +361,7 @@
                                             </Grid.ColumnDefinitions>
                                             <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero1L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero1L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ไม่มีน้ำตาล 1 ลิตร" Margin="90,10,0,0" HorizontalAlignment="Center" Width="184"/>
                                                     <TextBlock Text="ราคา 27 บาท" Margin="80,5,0,0 " TextAlignment="Center"/>
                                                     <Button x:Name="Oder103"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder103_Click" />
@@ -369,7 +369,7 @@
                                             </Border>
                                             <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero1.45L.jpg" Width="75" Height="75" Margin="-200,50,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero1.45L.jpg" Width="75" Height="75" Margin="-200,50,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ไม่มีน้ำตาล 1.45 ลิตร" Margin="100,-2,0,0" HorizontalAlignment="Center" Width="195"/>
                                                     <TextBlock Text="ราคา 34 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder113"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder113_Click" />
@@ -377,7 +377,7 @@
                                             </Border>
                                             <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero1.95L.jpg" Width="75" Height="75" Margin="-200,50,0,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizero1.95L.jpg" Width="75" Height="75" Margin="-200,50,0,-80" />
                                                     <TextBlock Text="เป๊ปซี่ไม่มีน้ำตาล 1.95 ลิตร" Margin="100,0,0,0" Width="207" TextAlignment="Center"/>
                                                     <TextBlock Text="ราคา 42 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder123"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder123_Click" />
@@ -385,7 +385,7 @@
                                             </Border>
                                             <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsilime410ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsilime410ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ไลม์ 410 มล." Margin="100,10,0,0" TextAlignment="Center" Width="183"/>
                                                     <TextBlock Text="ราคา 17 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center"/>
                                                     <Button x:Name="Oder133"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder133_Click" />
@@ -404,7 +404,7 @@
                                             </Grid.ColumnDefinitions>
                                             <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizerolime550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Pepsizerolime550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="เป๊ปซี่ไลท์ไม่มีน้ำตาล 550 มล." Margin="90,10,0,0" Width="184" FontSize="20" TextAlignment="Center"/>
                                                     <TextBlock Text="ราคา 20 บาท" Margin="80,5,0,0 " TextAlignment="Center"/>
                                                     <Button x:Name="Oder104"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder104_Click" />
@@ -426,7 +426,7 @@
                                         </Grid.ColumnDefinitions>
                                         <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Orangezero550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Orangezero550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="แฟนต้า น้ำส้มไม่มีน้ำตาล 550 มล." Margin="110,10,0,0" HorizontalAlignment="Center" Width="240" FontSize="22" TextAlignment="Center"/>
                                                 <TextBlock Text="ราคา 19 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                 <Button x:Name="Oder20"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder20_Click" />
@@ -434,7 +434,7 @@
                                         </Border>
                                         <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Orange1.25L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Orange1.25L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="แฟนต้า น้ำส้ม 1.25 ลิตร" Margin="125,10,0,0" HorizontalAlignment="Center" Width="180" TextAlignment="Center"/>
                                                 <TextBlock Text="ราคา 31 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                 <Button x:Name="Oder21"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder21_Click" />
@@ -442,7 +442,7 @@
                                         </Border>
                                         <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\fantaGreen550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\fantaGreen550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="แฟนต้า น้ำเขียว 550 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="226" TextAlignment="Center"/>
                                                 <TextBlock Text="ราคา 19 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                 <Button x:Name="Oder22"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder22_Click" />
@@ -450,7 +450,7 @@
                                         </Border>
                                         <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\fantaGreen1.25L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\fantaGreen1.25L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="แฟนต้า น้ำเขียว 1.25 ลิตร" Margin="125,10,0,0" HorizontalAlignment="Center" Width="212" TextAlignment="Center"/>
                                                 <TextBlock Text="ราคา 31 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                 <Button x:Name="Oder23"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder23_Click" />
@@ -468,7 +468,7 @@
                                             </Grid.ColumnDefinitions>
                                             <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\fantaGrape550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\fantaGrape550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="แฟนต้า องุ่นป๊อป 550 มล." Margin="110,10,0,0" HorizontalAlignment="Center" Width="240" FontSize="22" TextAlignment="Center"/>
                                                     <TextBlock Text="ราคา 19 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                     <Button x:Name="Oder201"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder201_Click" />
@@ -476,7 +476,7 @@
                                             </Border>
                                             <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\fantaredlime550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\fantaredlime550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="แฟนต้า น้ำแดงมะนาว 550 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="260" TextAlignment="Center" FontSize="22"/>
                                                     <TextBlock Text="ราคา 19 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                     <Button x:Name="Oder211"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder211_Click" />
@@ -484,7 +484,7 @@
                                             </Border>
                                             <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\fantared330ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\fantared330ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="แฟนต้า น้ำแดง 325 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="226" TextAlignment="Center"/>
                                                     <TextBlock Text="ราคา 16 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                     <Button x:Name="Oder221"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder221_Click" />
@@ -492,7 +492,7 @@
                                             </Border>
                                             <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\fantared550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\fantared550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="แฟนต้า น้ำแดง 550 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="212" TextAlignment="Center"/>
                                                     <TextBlock Text="ราคา 19 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                     <Button x:Name="Oder231"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder231_Click" />
@@ -510,7 +510,7 @@
                                                 </Grid.ColumnDefinitions>
                                                 <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                     <StackPanel>
-                                                        <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\fantared1.25L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                        <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\fantared1.25L.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                         <TextBlock Text="แฟนต้า น้ำแดง 1.25 ลิตร" Margin="110,10,0,0" HorizontalAlignment="Center" Width="240" FontSize="22" TextAlignment="Center"/>
                                                         <TextBlock Text="ราคา 31 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                         <Button x:Name="Oder202"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder202_Click" />
@@ -533,7 +533,7 @@
                                         </Grid.ColumnDefinitions>
                                         <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\crystal600ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\crystal600ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="น้ำดื่มคริสตัล 600 มล." Margin="110,10,0,0" HorizontalAlignment="Center" Width="240" FontSize="22" TextAlignment="Center"/>
                                                 <TextBlock Text="ราคา 7 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                 <Button x:Name="Oder30"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder30_Click" />
@@ -541,7 +541,7 @@
                                         </Border>
                                         <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\crystal1500ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\crystal1500ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="น้ำดื่มคริสตัล 1500 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="180" TextAlignment="Center"/>
                                                 <TextBlock Text="ราคา 14 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                 <Button x:Name="Oder31"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder31_Click" />
@@ -549,7 +549,7 @@
                                         </Border>
                                         <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Nestle600ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Nestle600ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="น้ำดื่มเนส์เล่เพียวไลฟ์ 600 มล." Margin="110,10,0,0" HorizontalAlignment="Center" Width="240" FontSize="22" TextAlignment="Center"/>
                                                 <TextBlock Text="ราคา 7 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                 <Button x:Name="Oder32"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder32_Click" />
@@ -557,7 +557,7 @@
                                         </Border>
                                         <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                             <StackPanel>
-                                                <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\Nestle1500ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\Nestle1500ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                 <TextBlock Text="น้ำดื่มเนส์เล่เพียวไลฟ์ 1500 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="180" TextAlignment="Center"/>
                                                 <TextBlock Text="ราคา 14 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                 <Button x:Name="Oder33"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder33_Click" />
@@ -575,7 +575,7 @@
                                             </Grid.ColumnDefinitions>
                                             <Border Grid.Column="0" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\thip550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\thip550ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="น้ำดื่มทิพย์ 550 มล." Margin="110,10,0,0" HorizontalAlignment="Center" Width="240" FontSize="22" TextAlignment="Center"/>
                                                     <TextBlock Text="ราคา 7 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                     <Button x:Name="Oder301"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder301_Click" />
@@ -583,7 +583,7 @@
                                             </Border>
                                             <Border Grid.Column="1" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\thip1500ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\thip1500ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="น้ำดื่มทิพย์ 1500 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="180" TextAlignment="Center"/>
                                                     <TextBlock Text="ราคา 14 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                     <Button x:Name="Oder311"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder311_Click" />
@@ -591,7 +591,7 @@
                                             </Border>
                                             <Border Grid.Column="2" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\singha600ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\singha600ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="น้ำดื่มสิงห์ 600 มล." Margin="110,10,0,0" HorizontalAlignment="Center" Width="240" FontSize="22" TextAlignment="Center"/>
                                                     <TextBlock Text="ราคา 7 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                     <Button x:Name="Oder321"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder321_Click" />
@@ -599,7 +599,7 @@
                                             </Border>
                                             <Border Grid.Column="3" BorderBrush="Black" BorderThickness="3" Margin="10,0,10,10">
                                                 <StackPanel>
-                                                    <Image Source="C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Image\\singha1500ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
+                                                    <Image Source="C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Image\\singha1500ml.jpg" Width="75" Height="75" Margin="-200,30,-5,-80" />
                                                     <TextBlock Text="น้ำดื่มสิงห์ 1500 มล." Margin="125,10,0,0" HorizontalAlignment="Center" Width="180" TextAlignment="Center"/>
                                                     <TextBlock Text="ราคา 14 บาท" Margin="80,5,0,0 " HorizontalAlignment="Center" TextAlignment="Center"/>
                                                     <Button x:Name="Oder331"  Margin="80,10,10,10" HorizontalAlignment="Center" Width="150" Height="35" Content="สั่งซื้อ" Click="Oder331_Click" />

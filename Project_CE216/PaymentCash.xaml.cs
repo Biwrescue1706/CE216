@@ -18,7 +18,7 @@ namespace Project_CE216
 {
     public partial class PaymentCash : Window
     {
-        private string OrderFilePath = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\OrderPage.txt";
+        private string OrderFilePath = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\OrderPage.txt";
         public PaymentCash()
         {
             InitializeComponent();
@@ -59,7 +59,10 @@ namespace Project_CE216
                 int pay10 = string.IsNullOrEmpty(Paymoney10.Text) ? 0 : int.Parse(Paymoney10.Text);
                 int pay20 = string.IsNullOrEmpty(Paymoney20.Text) ? 0 : int.Parse(Paymoney20.Text);
                 int pay50 = string.IsNullOrEmpty(Paymoney50.Text) ? 0 : int.Parse(Paymoney50.Text);
-                int Paymoney = (pay1 * 1) + (pay5 * 5) + (pay10 * 10) + (pay20 * 20) + (pay50 * 50);
+                int pay100 = string.IsNullOrEmpty(Paymoney100.Text) ? 0 : int.Parse(Paymoney100.Text);
+                int pay500 = string.IsNullOrEmpty(Paymoney500.Text) ? 0 : int.Parse(Paymoney500.Text);
+                int pay1000 = string.IsNullOrEmpty(Paymoney1000.Text) ? 0 : int.Parse(Paymoney1000.Text);
+                int Paymoney = (pay1 * 1) + (pay5 * 5) + (pay10 * 10) + (pay20 * 20) + (pay50 * 50) + (pay100 * 100) + (pay500 * 500) + (pay1000 * 1000);
 
                 if (decimal.TryParse(Total.Text, out decimal total))
                 {
@@ -87,7 +90,7 @@ namespace Project_CE216
         }
         private void WritePaymentCash(decimal total, decimal paymoney, decimal change)
         {
-            string Cash = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\Cash.txt";
+            string Cash = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\Cash.txt";
             using (StreamWriter writer = new StreamWriter(Cash, true))
             {
                 writer.WriteLine($"\t-----ชำระเงินโดยเงินสด----- ");
@@ -104,7 +107,7 @@ namespace Project_CE216
         }
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
-            string filePath = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\ProductOrder.txt"; // กำหนดที่อยู่ไฟล์ของคุณ
+            string filePath = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\ProductOrder.txt"; // กำหนดที่อยู่ไฟล์ของคุณ
             string[] lines = File.ReadAllLines(filePath);
 
             if (lines.Length > 0)

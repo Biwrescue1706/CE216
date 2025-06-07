@@ -39,7 +39,7 @@ namespace Project_CE216
         }
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
-            string filePath = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\ProductOrder.txt"; // กำหนดที่อยู่ไฟล์ของคุณ
+            string filePath = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\ProductOrder.txt"; // กำหนดที่อยู่ไฟล์ของคุณ
             string[] lines = File.ReadAllLines(filePath);
 
             if (lines.Length > 0)
@@ -77,7 +77,7 @@ namespace Project_CE216
                     int totalPrice = quantity * ProductPrice;
 
                     // Write data to the OrderPage.txt file
-                    string filePath = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\OrderPage.txt"; // specify your file path
+                    string filePath = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\OrderPage.txt"; // specify your file path
                     using (StreamWriter sw = new StreamWriter(filePath))
                     {
                         sw.WriteLine($"{ProductName},{ProductPrice},{Quantity.Text},{totalPrice}");

@@ -11,7 +11,7 @@ namespace Project_CE216
     /// </summary>
     public partial class SummaryDaily : Window
     {
-        private string summaryDailyFilePath = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\SummaryDaily.txt";
+        private string summaryDailyFilePath = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\SummaryDaily.txt";
 
         public SummaryDaily()
         {

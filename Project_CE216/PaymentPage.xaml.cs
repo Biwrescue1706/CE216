@@ -30,7 +30,7 @@ namespace Project_CE216
 
         private void LoadDataFromFile()
         {
-            string filePath = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\OrderPage.txt";
+            string filePath = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\OrderPage.txt";
             try
             {
                 if (File.Exists(filePath))
@@ -64,7 +64,7 @@ namespace Project_CE216
             int price = int.Parse(Price.Text);
             int quantity = int.Parse(Quantity.Text);
             int total = price * quantity;
-            string filePath = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\SummaryDaily.txt";
+            string filePath = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\SummaryDaily.txt";
 
             try
             {

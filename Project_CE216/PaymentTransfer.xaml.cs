@@ -23,7 +23,7 @@ namespace Project_CE216
             ReadFromFile();
         }
 
-        private string OrderFilePath = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\OrderPage.txt";
+        private string OrderFilePath = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\OrderPage.txt";
 
         public object BarcodeFormat { get; private set; }
 
@@ -100,7 +100,7 @@ namespace Project_CE216
         }
         private void WritePaymentDetails(string name, string total)
         {
-            string PTransfer = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\PTransfer.txt";
+            string PTransfer = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\PTransfer.txt";
             using (StreamWriter writer = new StreamWriter(PTransfer, true))
             {
                 writer.WriteLine($"\t-----ชำระเงินโดยการโอน----- ");
@@ -113,7 +113,7 @@ namespace Project_CE216
         }
         private void BackButton_Click(object sender, RoutedEventArgs e)
         {
-            string filePath = "C:\\Users\\acer\\Desktop\\CE216\\Project_CE216\\Data\\ProductOrder.txt"; // กำหนดที่อยู่ไฟล์ของคุณ
+            string filePath = "C:\\Users\\AdminPC\\Desktop\\CE216\\Project_CE216\\Data\\ProductOrder.txt"; // กำหนดที่อยู่ไฟล์ของคุณ
             string[] lines = File.ReadAllLines(filePath);
 
             if (lines.Length > 0)
